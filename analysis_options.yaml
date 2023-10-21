@@ -10,7 +10,10 @@
 include: package:flutter_lints/flutter.yaml
 flutter:
   assets:
-    - assets/download.png
+    - assets/pizza4jpeg
+    - assets/pizza3.jpeg
+    - assets/pizza1.jpeg
+
 linter:
   # The lint rules applied to this project can be customized in the
   # section below to disable rules from the `package:flutter_lints/flutter.yaml`
