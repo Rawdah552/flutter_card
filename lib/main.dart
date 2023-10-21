@@ -14,7 +14,7 @@ class PizzaHomePage extends StatelessWidget {
   final List<String> cardTitles = [
     'American pizza',
     'Somali pizza',
-    'korean pizza',
+    'Korean pizza',
   ];
 
   final List<Widget> cardActions = [
